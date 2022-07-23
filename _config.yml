@@ -34,4 +34,5 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 春雨Cast
-url: https://harusamecast.github.io/
+url: https://harusamecast.com
+future: true
